@@ -1,0 +1,13 @@
+.ContactMe{
+	background-color: #3F3B6C;
+	padding: 3.3rem;
+}
+.ContactMe h1{
+	text-align: center;
+	color: white;
+
+}
+
+.ContactMe form{
+	color: white;
+}
